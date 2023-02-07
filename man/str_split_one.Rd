@@ -10,6 +10,8 @@ str_split_one(string, pattern, n = Inf)
 \item{string}{A character vector with one element.}
 
 \item{pattern}{The pattern to use in splitting the string.}
+
+\item{n}{Number of breaks to split to.}
 }
 \value{
 A character vector.

@@ -2,6 +2,7 @@
 #'
 #' @param string A character vector with one element.
 #' @param pattern The pattern to use in splitting the string.
+#' @param n Number of breaks to split to.
 #'
 #' @return A character vector.
 #' @export
